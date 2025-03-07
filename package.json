@@ -1,13 +1,13 @@
 {
     "name": "git-chronos",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "A pure Node.js Git commit engine for automated, timezone-aware commits with zero external dependencies.",
-    "main": "git-chronos.js",
+    "main": "lib/index.js",
     "bin": {
-      "git-chronos": "./git-chronos.js"
+      "git-chronos": "./bin/git-chronos.js"
     },
     "scripts": {
-      "start": "node git-chronos.js"
+      "start": "node bin/git-chronos.js"
     },
     "keywords": [
       "git",
