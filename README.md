@@ -1,6 +1,6 @@
 # 🤖 git-chronos
 
-`git-chronos`
+`git-chronos` is a cutting-edge, industrial-grade tool designed to automate Git commits with precision and style. Whether you’re simulating activity or streamlining repetitive tasks, this bot offers unmatched flexibility, reliability, and performance all without external dependencies!
 
 ![License](https://img.shields.io/badge/license-MIT-red.svg)
 ![Node.js](https://img.shields.io/badge/Node.js-14%2B-green.svg)
@@ -18,6 +18,12 @@ Follow these steps to get started:
 2. Run the command:
     ```bash
     node git-chronos.js 
+    ```
+    or
+
+3. Run the command:
+    ```bash
+    npm install -g git-chronos
     ```
 
 ## 💡 Contributing

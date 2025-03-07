@@ -1,0 +1,5 @@
+# generated files specific
+node_modules/
+bot_runtime.log
+git_chronos.lock
+commit_tracker.json

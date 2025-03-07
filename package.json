@@ -1,7 +1,7 @@
 {
     "name": "git-chronos",
     "version": "1.0.0",
-    "description": "",
+    "description": "A pure Node.js Git commit engine for automated, timezone-aware commits with zero external dependencies.",
     "main": "git-chronos.js",
     "bin": {
       "git-chronos": "./git-chronos.js"
@@ -10,6 +10,22 @@
       "start": "node git-chronos.js"
     },
     "keywords": [
+      "git",
+      "automation",
+      "commit",
+      "scheduler",
+      "bot",
+      "cli",
+      "version-control",
+      "productivity",
+      "git-bot",
+      "auto-commit",
+      "development-tools",
+      "nodejs",
+      "scripting",
+      "timezone",
+      "random-commits",
+      "zero-dependencies"
     ],
     "author": "Giorgi Kishmareia",
     "license": "MIT",
