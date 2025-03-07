@@ -1,0 +1,32 @@
+{
+    "name": "git-chronos",
+    "version": "1.0.0",
+    "description": "",
+    "main": "git-chronos.js",
+    "bin": {
+      "git-chronos": "./git-chronos.js"
+    },
+    "scripts": {
+      "start": "node git-chronos.js"
+    },
+    "keywords": [
+    ],
+    "author": "Giorgi Kishmareia",
+    "license": "MIT",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/q1sh101/git-chronos.git"
+    },
+    "bugs": {
+      "url": "https://github.com/q1sh101/git-chronos/issues"
+    },
+    "homepage": "https://github.com/q1sh101/git-chronos#readme",
+    "engines": {
+      "node": ">=14.0.0",
+      "npm": ">=6.0.0"
+    },
+    "funding": {
+      "type": "individual",
+      "url": "https://github.com/sponsors/q1sh101"
+    }
+  }
