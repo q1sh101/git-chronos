@@ -14,16 +14,27 @@ Follow these steps to get started:
     git clone https://github.com/q1sh101/git-chronos.git
     cd git-chronos
     ```
-
 2. Run the command:
     ```bash
-    npm start
+    npm install
     ```
-    or
 
 3. Run the command:
     ```bash
+    npm start
+    ```
+
+  ### or
+
+
+1. Run the command:
+    ```bash
     npm install -g git-chronos
+    ```
+
+2. Run the command:
+    ```bash
+    npx git-chronos
     ```
 
 ## 💡 Contributing
