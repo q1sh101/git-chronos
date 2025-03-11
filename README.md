@@ -17,7 +17,7 @@ Follow these steps to get started:
 
 2. Run the command:
     ```bash
-    node git-chronos.js 
+    npm start
     ```
     or
 
