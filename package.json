@@ -1,6 +1,6 @@
 {
     "name": "git-chronos",
-    "version": "1.0.7",
+    "version": "1.0.9",
     "description": "A pure Node.js Git commit engine for automated, timezone-aware commits with zero external dependencies.",
     "main": "lib/index.js",
     "bin": {
@@ -25,6 +25,7 @@
       "auto-commit",
       "development-tools",
       "scripting",
+      "terminal",
       "timezone",
       "random-commits",
       "zero-dependencies"
